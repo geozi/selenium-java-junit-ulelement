@@ -47,7 +47,7 @@ Furthermore, each class contains test methods that correspond to a series of sim
 * Selenium.
 
 ### Dependencies
-```
+```xml
   <dependencies>
     <!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java -->
     <dependency>
